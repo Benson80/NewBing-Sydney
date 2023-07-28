@@ -15,7 +15,7 @@ NewBing和Sydney无法使用? -> 自建cf代理,并替换wsslink
 
 (6). 在 worker 详情页面，点击 edit code。
 
-(7). 从worker.js复制所有的代码，然后粘贴到 worker.js 中，覆盖原有的代码。然后点击 Save and deploy。
+(7). 从workerfixed.txt复制所有的代码，然后粘贴到 worker.js 中，覆盖原有的代码。然后点击 Save and deploy。
 
 (8). 复制 worker 域名，看起来像 xxxx-xxxx-xxxx.xxxx.workers.dev（请填入域名，而不是URL：不是https://xxxx-xxxx-xxxx.xxxx.workers.dev/ ，请移除前后缀https:// 和/
 
