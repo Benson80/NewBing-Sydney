@@ -3,7 +3,7 @@ NewBing和Sydney无法使用? -> 自建cf代理,并替换wsslink
 
 注意cfworker有额度限制,如达到额度,请自行注册小号更替使用
 
-(1). 点击这个链接https://dash.cloudflare.com/，登录或注册一个 Cloudflare 账号。
+(1). 点击这个链接https://dash.cloudflare.com/， 登录或注册一个 Cloudflare 账号。
 
 (2). 在侧边栏，选择 Workers & Pages。
 
